@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "LnqFhInHnZaF2bKTTAKahjce2SYhZTk0ty2K/Uo2IWB86ACbXD/GzjGkvUvGyb54oVBabysZ8Zyzrh+dNuDyjA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\deofi\\source\\repos\\Task4.1\\RVP.Task.4\\RVP.Task.4.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\deofi\\.nuget\\packages\\materialdesigncolors\\2.1.2\\materialdesigncolors.2.1.2.nupkg.sha512",
+    "C:\\Users\\deofi\\.nuget\\packages\\materialdesignthemes\\4.8.0\\materialdesignthemes.4.8.0.nupkg.sha512",
+    "C:\\Users\\deofi\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.39\\microsoft.xaml.behaviors.wpf.1.1.39.nupkg.sha512"
+  ],
+  "logs": []
+}
