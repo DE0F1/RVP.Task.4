@@ -1,0 +1,100 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <ApplicationDefinition Update="App.xaml">
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Update="View\Pages\MainPage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\Pages\TaskPages\TaskPage1.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\Pages\TaskPages\TaskPage10.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\Pages\TaskPages\TaskPage11.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\Pages\TaskPages\TaskPage12.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\Pages\TaskPages\TaskPage13.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\Pages\TaskPages\TaskPage2.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\Pages\TaskPages\TaskPage3.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\Pages\TaskPages\TaskPage4.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\Pages\TaskPages\TaskPage5.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\Pages\TaskPages\TaskPage6.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\Pages\TaskPages\TaskPage7.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\Pages\TaskPages\TaskPage8.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\Pages\TaskPages\TaskPage9.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Page Update="View\MainWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\Pages\MainPage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\Pages\TaskPages\TaskPage1.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\Pages\TaskPages\TaskPage10.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\Pages\TaskPages\TaskPage11.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\Pages\TaskPages\TaskPage12.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\Pages\TaskPages\TaskPage13.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\Pages\TaskPages\TaskPage2.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\Pages\TaskPages\TaskPage3.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\Pages\TaskPages\TaskPage4.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\Pages\TaskPages\TaskPage5.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\Pages\TaskPages\TaskPage6.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\Pages\TaskPages\TaskPage7.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\Pages\TaskPages\TaskPage8.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\Pages\TaskPages\TaskPage9.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+</Project>
